@@ -1,6 +1,6 @@
 # exm-nodejs
 
-Ex Magic Door 爬取 E-Hentai的爬虫
+Ex Magic Door 爬取 E-Hentai的爬虫 以Mozilla许可证开源
 
 下面我直接把站点关于搬过来了
 
